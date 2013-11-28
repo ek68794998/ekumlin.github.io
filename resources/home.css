@@ -5,7 +5,7 @@ html {
 	width: 100%;
 }
 body {
-	background: #d8eb78 url(images/background.jpg) center bottom;
+	background: #d8eb78 url(images/background.jpg) center bottom no-repeat;
 	background-size: auto 100%;
 }
 div.name {
